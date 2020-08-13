@@ -1,4 +1,4 @@
-# Teleco-Customer-Churn-Insights (An Application of Conditional Probability)
+# Telco-Customer-Churn-Insights (An Application of Conditional Probability)
 Insights from "Teleco Customer Churn" data-set by Kaggle using uni-variate plotting with pandas
 
 ## A bit about Conditional Probability
